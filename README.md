@@ -1,5 +1,5 @@
 # craft-new-tab
-A custom chrome extension that overrides the new tab page to a url of your choice.
+A custom chrome extension that overrides the new tab page to a Craft url of your choice.
 
 To set your own url, open the file with a text editor and replace the "REPLACE ME" text with the full URL. 
 
